@@ -1,0 +1,13 @@
+Токеніцація:
+MARCELLUS .
+Horatio says ’ tis but our fantasy , And will not let belief take hold of him Touching this dreaded sight , twice seen of us .
+Therefore I have entreated him along With us to watch the minutes of this night , That if again this apparition come He may approve our eyes and speak to it .
+
+Стемінг:
+marcellu . horatio say ’ ti but our fantasi , and will not let belief take hold of him touch thi dread sight , twice seen of us . therefor i have entreat him along with us to watch the minut of thi night , that if again thi apparit come he may approv our eye and speak to it . 
+
+Лемматизація:
+MARCELLUS . Horatio say ’ ti but our fantasy , And will not let belief take hold of him Touching this dreaded sight , twice seen of u . Therefore I have entreated him along With u to watch the minute of this night , That if again this apparition come He may approve our eye and speak to it . 
+
+Текст після видалення пунктуації та стоп-слів:
+marcellus horatio says tis fantasy let belief take hold touching dreaded sight twice seen us therefore entreated along us watch minutes night apparition come may approve eyes speak
